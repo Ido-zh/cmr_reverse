@@ -1,0 +1,10 @@
+
+# Path to the diffusion model weights.
+diffusion_dump_base: "./dump"
+
+# Path the ACDC training split in nnUNet format.
+acdc_training: "/path/to/nnUNet_raw_data_base/Task900_ACDCPhys/imagesTr"
+
+# Reverse imaging results will be saved here.
+reverse_imaging_save_base: "./reverse_imaging_results"
+

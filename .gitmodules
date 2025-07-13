@@ -1,0 +1,3 @@
+[submodule "nnunet"]
+	path = nnunet
+	url = git@github.com:Ido-zh/nnUNet-phys-seg.git
