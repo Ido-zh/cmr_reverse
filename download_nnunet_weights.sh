@@ -14,7 +14,7 @@ else
 fi
 
 SURFDRIVE_LINK="https://surfdrive.surf.nl/files/index.php/s/aLwZM4htAnBm7ST/download"
-EXTRACT_DIR="$RESULTS_FOLDER/nnUNet/2d"
+EXTRACT_DIR="$RESULTS_FOLDER/nnUNet/2d/Task900_ACDC_Phys"
 mkdir -p $EXTRACT_DIR
 ZIP_NAME="Task900_ACDC_Phys.zip"
 ZIP_PATH="$RESULTS_FOLDER/nnUNet/2d/$ZIP_NAME"
